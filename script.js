@@ -12,9 +12,7 @@ yesBtn.addEventListener("click", () => {
 
 question.innerHTML = "I Love You too Aurelia Tiara Widana";
 
-gif.src =
-
-"https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; });
+gif.src = "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp"; });
 
 noBtn.addEventListener("mouseover", () => {
 
